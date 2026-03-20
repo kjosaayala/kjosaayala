@@ -14,19 +14,12 @@ public class KJosaAyala
 
     public List<string> Communities { get; set; } = new()
     {
-        "🇭🇳 DevTeam504 ",
-        "👩‍💻 Women Techmakers Ambassador",
-        "👩‍💻 GDG San Pedro Sula",
-        "👩‍💻 Angular Meetup"
+        "🇭🇳 DevTeam504 ", "👩‍💻 Women Techmakers Ambassador "👩‍💻 GDG San Pedro Sula", "👩‍💻 Angular Meetup"
     };
 
     public List<string> Hobbies { get; set; } = new()
     {
-        "👩‍💻 Technology",
-        "📚 Reading",
-        "✍️ Writing",
-        "🚗 Cars",
-        "☕ Coffee",        
+        "👩‍💻 Technology", "📚 Reading", "✍️ Writing", "🚗 Cars", "☕ Coffee"        
     };
 
     public List<string> Languages { get; set; } = new()
