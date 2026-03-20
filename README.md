@@ -3,6 +3,12 @@
 ### Software and Data Engineer | Big Data & BI | Full Stack Developer
 **I code with purpose 💻, and I share to grow 🚀**
 
+### 📚 Documentation & Articles
+
+I share technical notes, articles, guides, and resources here:
+- 🔗 [Visit my documentation repository](https://github.com/kjosaayala/kjosaayala-documentation)
+- 📖 [Browse the README / main index](https://github.com/kjosaayala/kjosaayala-documentation/blob/main/README.md)
+
 ```csharp
 public class KJosaAyala
 {
