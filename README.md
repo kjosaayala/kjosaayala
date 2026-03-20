@@ -1,6 +1,6 @@
 # Hello World 👋, I'm Kensy Ayala
 
-### Systems Engineer | Big Data & BI | Full Stack Developer
+### Software and Data Engineer | Big Data & BI | Full Stack Developer
 **I code with purpose 💻, and I share to grow 🚀**
 
 ```csharp
