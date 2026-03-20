@@ -18,6 +18,11 @@ public class KJosaAyala
     public string Experience => "👩‍💻 Full stack development, APIs, data analysis, BI, and cloud-based solutions";
     public string Content => "✨ Sharing knowledge, give talks, organize events, podcasts, articles";
 
+    public List<string> Studies { get; set; } = new()
+    {
+        "🎓Informatic Engineering Bachelor Degree", "📘 Master's Degree in Big Data and Business Intelligence"
+    };
+
     public List<string> Communities { get; set; } = new()
     {
         "🇭🇳 DevTeam504 ", "👩‍💻 Women Techmakers Ambassador "👩‍💻 GDG San Pedro Sula", "👩‍💻 Angular Meetup"
@@ -36,11 +41,6 @@ public class KJosaAyala
     public List<string> Frameworks { get; set; } = new()
     {
         "⚙️.NET and ASP.NET Core", "🅰️Angular", "⚛️React", "⬢NodeJS", "🎮Unity and Unreal Engine enthusiastic"
-    };
-
-    public List<string> Studies { get; set; } = new()
-    {
-        "🎓Informatic Engineering Bachelor Degree", "📘 Master's Degree in Big Data and Business Intelligence"
     };
 
     public List<string> Specialties { get; set; } = new()
