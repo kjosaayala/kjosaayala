@@ -6,8 +6,7 @@
 ### 📚 Documentation & Articles
 
 I share technical notes, articles, guides, and resources here:
-- 🔗 [Visit my documentation repository](https://github.com/kjosaayala/kjosaayala-documentation)
-- 📖 [Browse the README / main index](https://github.com/kjosaayala/kjosaayala-documentation/blob/main/README.md)
+- 🔗 [Visit my documentation repository](https://github.com/kjosaayala/kjosaayala-documentation/blob/main/README.md)
 
 ```csharp
 public class KJosaAyala
