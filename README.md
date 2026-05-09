@@ -2,6 +2,8 @@
 
 ### Software and Data Engineer | Big Data & BI | Full Stack Developer
 **I code with purpose 💻, and I share to grow 🚀**
+🔗 [My LinkedIn](https://www.linkedin.com/in/kensy-ayala/)
+🔗 [Instagram](https://www.instagram.com/kjosaayaladev/)
 
 ### 📚 Documentation & Articles
 
